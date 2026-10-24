@@ -1,0 +1,8 @@
+{
+  "name": "咖啡豆選擇平台 Coffee Bean Selector",
+  "description": "簡約質感的咖啡豆選擇平台，支援隨機轉盤與手動選豆、飲品客製化設定、Google Sheets 雲端訂單與豆子許願池紀錄。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
